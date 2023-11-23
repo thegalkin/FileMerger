@@ -10,5 +10,5 @@ This application is designed to merge several text files into a single one. :ope
 - Clear the output :broom:
 - Supports drag and drop of several files, appending each other :mouse: :arrow_down: :file_folder:
 
-![Showcase](https://github.com/thegalkin/FileMerger/blob/main/Showcase.gif)
+![](https://github.com/thegalkin/FileMerger/blob/main/Showcase.gif)
 
